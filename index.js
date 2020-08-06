@@ -1,6 +1,8 @@
 class Polygon {
   constructor(array){
     
-    get 
+    get countSides(){
+      return array.length
+    }
   }
 }
